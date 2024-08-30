@@ -1,4 +1,4 @@
-"data":{
+{
   "platos": [
     {
       "id": 1,
@@ -6,7 +6,7 @@
       "name": "Meat pizza",
       "food": "pizza",
       "restaurant": "Aromat Bakery",
-      "price": 29.00
+      "price": 29
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "name": "Combined pizza",
       "food": "pizza",
       "restaurant": "Aromat Bakery",
-      "price": 31.50
+      "price": 31.5
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "name": "Pizza with meat and mushrooms",
       "food": "pizza",
       "restaurant": "Aromat Bakery",
-      "price": 26.90
+      "price": 26.9
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "name": "Hawaiian pizza",
       "food": "pizza",
       "restaurant": "Aromat Bakery",
-      "price": 35.00
+      "price": 35
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "name": "Sausage pizza",
       "food": "pizza",
       "restaurant": "Aromat Bakery",
-      "price": 30.00
+      "price": 30
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "name": "Vegetarian pizza",
       "food": "pizza",
       "restaurant": "Aromat Bakery",
-      "price": 32.00
+      "price": 32
     },
     {
       "id": 7,
@@ -134,7 +134,7 @@
       "name": "Veggie Burger",
       "food": "burger",
       "restaurant": "The Deutch Grill",
-      "price": 14.00
+      "price": 14
     },
     {
       "id": 18,
@@ -142,7 +142,7 @@
       "name": "Classic Meatloaf",
       "food": "dinner",
       "restaurant": "Last night Restaurant & kafe",
-      "price": 23.50
+      "price": 23.5
     },
     {
       "id": 19,
@@ -158,7 +158,7 @@
       "name": "Chicken and Dumplings",
       "food": "dinner",
       "restaurant": "Last night Restaurant & kafe",
-      "price": 18.90
+      "price": 18.9
     },
     {
       "id": 21,
@@ -166,7 +166,7 @@
       "name": "Classic Green Bean Caserole",
       "food": "dinner",
       "restaurant": "Last night Restaurant & kafe",
-      "price": 21.60
+      "price": 21.6
     },
     {
       "id": 22,
@@ -174,7 +174,7 @@
       "name": "Breaised Sweetbreads Eugenie",
       "food": "dinner",
       "restaurant": "Last night Restaurant & kafe",
-      "price": 19.90
+      "price": 19.9
     },
     {
       "id": 23,
@@ -222,7 +222,7 @@
       "name": "Nutty Oatmeal",
       "food": "breakfast",
       "restaurant": "Glamour Kafe",
-      "price": 8.90
+      "price": 8.9
     },
     {
       "id": 29,
@@ -230,7 +230,7 @@
       "name": "Protein Pancakes",
       "food": "breakfast",
       "restaurant": "Glamour Kafe",
-      "price": 11.50
+      "price": 11.5
     },
     {
       "id": 30,
@@ -238,9 +238,9 @@
       "name": "Ricotta Toast and Berries",
       "food": "breakfast",
       "restaurant": "Glamour Kafe",
-      "price": 12.10
+      "price": 12.1
     },
-      {
+    {
       "id": 31,
       "image": "https://www.eatthis.com/wp-content/uploads/sites/4/media/images/ext/649591638/frozen-berry-banana-oatmeal.jpg",
       "name": "Instant Oats with Protein Powder",
@@ -325,7 +325,5 @@
       "before": "8$"
     }
   ],
-  "users": [
-
-  ]
+  "users": []
 }
